@@ -1,0 +1,2 @@
+Prefix plugins/Fiedler/example/
+Plugin Fiedler inputfile barbell.gml outputfile none
